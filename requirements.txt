@@ -1,0 +1,17 @@
+# Dependencias directas del proyecto
+# Las sub-dependencias se instalan automáticamente
+
+# Test framework
+pytest==8.4.2
+pytest-bdd==8.1.0
+pytest-xdist==3.8.0
+
+# Reportes
+allure-pytest==2.15.3
+
+# Browser automation
+selenium==4.36.0
+webdriver-manager==4.0.2
+
+# Variables de entorno
+python-dotenv==1.2.1

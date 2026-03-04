@@ -1,0 +1,19 @@
+venv/
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+# Entorno y secretos
+.env
+
+# Sistema macOS
+.DS_Store
+
+# Reportes y artefactos generados
+allure-results/
+reports/
+screenshots/
+*.log
+
+# Cache de pytest
+.pytest_cache/

@@ -1,0 +1,8 @@
+{
+  "venvPath": ".",
+  "venv": "venv",
+  "pythonVersion": "3.9",
+  "pythonPlatform": "Darwin",
+  "include": ["features", "pages", "utils", "conftest.py"],
+  "exclude": ["venv", ".pytest_cache", "__pycache__"]
+}

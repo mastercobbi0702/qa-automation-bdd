@@ -1,0 +1,12 @@
+{
+    "python.defaultInterpreterPath": "/Users/charlycn/Desktop/qa-automation-bdd/venv/bin/python",
+    "python.analysis.extraPaths": [
+        "/Users/charlycn/Desktop/qa-automation-bdd/venv/lib/python3.9/site-packages",
+        "/Users/charlycn/Desktop/qa-automation-bdd"
+    ],
+    "python.testing.pytestArgs": [
+        "."
+    ],
+    "python.testing.unittestEnabled": false,
+    "python.testing.pytestEnabled": true
+}
